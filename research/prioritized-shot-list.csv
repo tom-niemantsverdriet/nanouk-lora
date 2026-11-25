@@ -1,0 +1,1 @@
+shot_id,setup_id,gap_ids,pilot_failure_ids,scenario_ids,setup,creator_direction,usable_train_selects,usable_reference_selects,coverage_gained,importance,frequency,severity,repeatability,capture_confidence,effort_cost,overlap_fraction,secondary_gap_terms,priority_score,rank,decision,status,retest_criteria,notes
